@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.htcvivealcoholanddrugs.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\AP Updated\\3EA\\MIXED REALITY\\Unity project\\HTCVICE-Alcohol-Drugs\\HTC VIVE Alcohol and Drugs\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "HTC VIVE Alcohol and Drugs [Testing]"
+        }
+      }
+    }
+  ]
+}
